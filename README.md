@@ -17,7 +17,7 @@ Centralizar dados dispersos (rendimentos tributáveis, despesas dedutíveis e ev
 ## 🖼️ Demonstração Visual
 
 ### Painel Principal / Menu
-![Menu de Navegação](images/menu.png)
+![Menu de Navegação](images.png)
 
 ### Controlo de Rendimentos e Despesas
 ![Validação de Dados](images/rendimentos.png)
